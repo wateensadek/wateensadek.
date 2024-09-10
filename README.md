@@ -2,7 +2,9 @@ Assignment 1
 
 Wateen Sadek 
 
-photo: wateensadek./IMG_1972.JPG 
+![IMG_1972](https://github.com/user-attachments/assets/a46c7bc6-ab69-4dd7-a69f-830722e98818)
+
+
 
 Neuroscience 
 
