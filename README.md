@@ -6,7 +6,7 @@ Assignment 1
 
 
 
-Neuroscience🧠
+__Neuroscience🧠__
 
 *3rd year*
 
