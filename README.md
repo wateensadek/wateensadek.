@@ -1,4 +1,4 @@
-Assignment 1 
+__Assignment 1__
 
 ***My name is Wateen Sadek :)🫒🌊🍉☀*** 
 
@@ -8,7 +8,7 @@ Assignment 1
 
 __Neuroscience🧠__
 
-*3rd year*
+__*3rd year*__
 
 I enrolled in this course because I have always been curious about coding in neuroscience and wanted to try something new :) 
 
